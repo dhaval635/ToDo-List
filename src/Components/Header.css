@@ -1,0 +1,60 @@
+.hd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 47px;
+    font-size: 27px;
+    /* Distribute items evenly */
+
+    /* Vertically center items */
+    background-color: lightpink;
+
+    border-bottom: 1px solid #ccc;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0, 166, 255);
+}
+
+.contain {
+    background-color: cornsilk;
+    width: 70%;
+    margin: auto;
+    min-height: 100vh;
+    padding: 4vmax 8vmax;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.contain>form {
+    display: flex;
+    flex-direction: column;
+}
+
+input,
+textarea,
+button {
+    padding: 14px;
+    border: 1px solid rgba(0, 0, 0, 0.401);
+    border-radius: 5px;
+    margin: 17px;
+    font-size: 1.3em;
+
+
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    background-color: rgb(37, 37, 37);
+    color: white;
+    margin-top: 20px;
+
+}
+
+.contain>h1 {
+    text-align: center;
+    margin: 30px;
+}
