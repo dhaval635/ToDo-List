@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dhaval635.github.io/ToDo-List/static/css/main.34f2181f.css",
-    "main.js": "/dhaval635.github.io/ToDo-List/static/js/main.cd87ab95.js",
+    "main.js": "/dhaval635.github.io/ToDo-List/static/js/main.64d1d113.js",
     "static/js/787.e472b688.chunk.js": "/dhaval635.github.io/ToDo-List/static/js/787.e472b688.chunk.js",
     "static/media/fa-solid-900.ttf": "/dhaval635.github.io/ToDo-List/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/dhaval635.github.io/ToDo-List/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
@@ -14,11 +14,11 @@
     "static/media/logo.svg": "/dhaval635.github.io/ToDo-List/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/dhaval635.github.io/ToDo-List/index.html",
     "main.34f2181f.css.map": "/dhaval635.github.io/ToDo-List/static/css/main.34f2181f.css.map",
-    "main.cd87ab95.js.map": "/dhaval635.github.io/ToDo-List/static/js/main.cd87ab95.js.map",
+    "main.64d1d113.js.map": "/dhaval635.github.io/ToDo-List/static/js/main.64d1d113.js.map",
     "787.e472b688.chunk.js.map": "/dhaval635.github.io/ToDo-List/static/js/787.e472b688.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34f2181f.css",
-    "static/js/main.cd87ab95.js"
+    "static/js/main.64d1d113.js"
   ]
 }
